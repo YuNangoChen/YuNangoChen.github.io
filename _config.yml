@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yu-Nan Chen"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "陈裕楠（Yu-Nan Chen）"
+  avatar           : "images/472x472.jpg"
   bio              : "Lorem ipsum College"
   location         : "Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=1nyXPMYAAAAJ"
   email            : "yunan.chen@zmnh.uni-hamburg.de"
- # researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -41,17 +41,17 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : "https://github.com/YuNangoChen"
+  impactstory      : 
   lastfm           :
   #linkedin         : "linkedin username"
   #dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  #orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-0070-4484"
   pinterest        :
   soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
-  twitter          : 
+  tumblr           : 
+  twitter          : "https://x.com/ChenYuNan347"
   vine             :
   weibo            :
   xing             :
