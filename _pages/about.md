@@ -28,7 +28,7 @@ I am currently working in Hanganu-Opatz Lab for my doctoral project. My main aim
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STAR Protocols 2024</div><img src='StarPro-GA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STAR Protocols 2024</div><img src='images/StarPro-GA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Protocol for adeno-associated virus-mediated optogenetic activation of olfactory output neurons in neonatal mice](https://star-protocols.cell.com/protocols/3576)
@@ -39,7 +39,7 @@ I am currently working in Hanganu-Opatz Lab for my doctoral project. My main aim
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Current Biology 2024</div><img src='CurBio-GA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Current Biology 2024</div><img src='images/CurBio-GA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities](https://doi.org/10.1016/j.cub.2023.08.072)
