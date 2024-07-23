@@ -35,17 +35,37 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 **Yu-Nan Chen (陈裕楠)**, Johanna K. Kostka, Sebastian H. Bitzenhofer, Ileana L. Hanganu-Opatz
 
+*STAR Protocols 5, 103164*
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1nyXPMYAAAAJ&citation_for_view=1nyXPMYAAAAJ:WbkHhVStYXYC) <strong><span #class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Current Biology 2024</div><img src='images/CurBio-GA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Current Biology 2023</div><img src='images/CurBio-GA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities](https://doi.org/10.1016/j.cub.2023.08.072)
 
 **Yu-Nan Chen (陈裕楠)**, Johanna K. Kostka, Sebastian H. Bitzenhofer, Ileana L. Hanganu-Opatz
 
+*Current Biology, 33(20), 4353-4366*
+
+[Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models](https://doi.org/10.1186/s13024-021-00434-7)
+
+Ming Chen †, **Yu-Nan Chen** †, Qingwei Huo †, ..., Cheng Long & Li Yang.
+
+*Molecular Neurodegeneration, 16(1), 1-23*
+
+[Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model](https://doi.org/10.3389/fnsys.2021.642349)
+
+Wenjun Yu †, Xiaoyan Wu †, **Yu-Nan Chen** †, ..., Jun Shen & Li Yang.
+
+*Frontiers in Systems Neuroscience, 15, 642349*
+
+[Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice](10.3791/59310-v)[[Video]](https://www.jove.com/de/v/59310/evaluation-hemisphere-lateralization-with-bilateral-local-field)
+
+**Yu-Nan Chen**, Ming Li, Ying Zheng, Li Yang
+
+*JoVE (Journal of Visualized Experiments), (149), e59310*
 # 🎖 Honors and Awards
 - *2024.08* **Chinese Government Award for Outstanding Self-financed Students Abroad**
 - *2024.03* **Federation of European Neuroscience Societies (FENS) Travel Grant for 17th Meeting of the Chinese Neuroscience Society in 2024 (CNS 2024)**
