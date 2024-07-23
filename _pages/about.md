@@ -38,11 +38,11 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   <div class='paper-box-image'>
   <img src='images/StarPro-GA.jpg' alt="sym" width="50%">  
     </div>
-    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 10px; left: 10px>  
+    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 10px; left: 10px">  
     <div class="badge">STAR Protocols 2024</div>
     </a>
   </div>
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/StarPro-GA.jpg' alt="sym" width="50%"></div></div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/StarPro-GA.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">-->
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1nyXPMYAAAAJ&citation_for_view=1nyXPMYAAAAJ:WbkHhVStYXYC) <strong><span #class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -58,7 +58,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   <div class='paper-box-image'>
   <img src='images/CurBio-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: absolute; top: 10px; left: 10px>  
+    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: absolute; top: 10px; left: 10px">  
     <div class="badge">Current Biology 2023</div>
     </a>
   </div>
@@ -71,7 +71,14 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
-<br/>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <img src='images/MN-GA.jpg' alt="sym" width="50%">  
+    </div>
+    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: absolute; top: 10px; left: 10px">  
+    <div class="badge">Molecular Neurodegeneration 2021</div>
+    </a>
+  </div>
 
 **Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model**
 
