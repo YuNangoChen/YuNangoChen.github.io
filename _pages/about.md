@@ -47,10 +47,9 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   z-index: 10;
 }
 </style>-->
-
+<div style="position: relative; display: inline-block;">
 <div class='paper-box'>
   <div class='paper-box-image'>
-  <div style="position: relative; display: inline-block;">
   <img src='images/StarPro-GA.jpg' alt="sym" width="70%">  
     </div>
     <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 0; left: 0; width: 50%; height: 0; text-align: left;display: flex; align-items: center; justify-content: center">  
@@ -83,9 +82,9 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   z-index: 10;
 }
 </style>-->
+<div style="position: relative; display: inline-block;">
 <div class='paper-box'>
   <div class='paper-box-image'>
-  <div style="position: relative; display: inline-block;">
   <img src='images/CurBio-GA.jpg' alt="sym" width="70%">  
     </div>
     <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: absolute; top: 0; left: 0; width: 0; height: 50%; text-align: left;display: flex; align-items: center; justify-content: center">  
@@ -115,9 +114,9 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   z-index: 10;
 }
 </style>-->
+<div style="position: relative; display: inline-block;">
 <div class='paper-box'>
   <div class='paper-box-image'>
-  <div style="position: relative; display: inline-block;"> 
   <img src='images/MN-GA.jpg' alt="sym" width="70%">  
     </div>
     <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: absolute; top: 0; left: 0; width: 0; height: 50%; text-align: left;display: flex; align-items: center; justify-content: center">  
