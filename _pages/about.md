@@ -57,7 +57,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   </div>
 </div>
 
-<!-- <div class='paper-box-text' markdown="1">-->
+<div class='paper-box-text' markdown="1">
 
 **Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models**
 
