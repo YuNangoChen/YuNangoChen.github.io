@@ -35,17 +35,14 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 *STAR Protocols 5, 103164*
 <style>
 .paper-box {
-  position: relative;
-}
-.paper-box-image img {
-  width: 100%;
+  position: absolute;
 }
   .badge {
   position: relative;
   top: 0;
   left: 0;
-  transform: translate(0, -50%);
-  padding: 3px 9px;
+  transform: translate(-50%, -50%);
+  padding: 3px 10px;
   font-size: 8px;
   z-index: 10;
 }
@@ -73,18 +70,15 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 <style>
 .paper-box {
-  position: relative;
-}
-.paper-box-image img {
-  width: 100%;
+  position: absolute;
 }
   .badge {
   position: relative;
   top: 0;
   left: 0;
-  transform: translate(0, -50%);
-  padding: 3px 9px;
-  font-size: 8px;
+  transform: translate(-50%, -50%);
+  padding: 3px 8px;
+  font-size: 10px;
   z-index: 10;
 }
 </style>
@@ -107,18 +101,15 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
 
 <style>
 .paper-box {
-  position: relative;
-}
-.paper-box-image img {
-  width: 100%;
+  position: absolute;
 }
   .badge {
   position: relative;
   top: 0;
   left: 0;
-  transform: translate(0, -50%);
-  padding: 3px 9px;
-  font-size: 8px;
+  transform: translate(-50%, -50%);
+  padding: 3px 8px;
+  font-size: 10px;
   z-index: 10;
 }
 </style>
