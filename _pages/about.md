@@ -28,10 +28,18 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 # 📝 Featured Publications 
 
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STAR Protocols 2024</div><img src='images/StarPro-GA.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <img src='images/StarPro-GA.jpg' alt="sym" width="50%">  
+    </div>
+    <a href="https://star-protocols.cell.com/protocols/3576">  
+    <div class="badge">STAR Protocols 2024</div>
+    </a>
+  </div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/StarPro-GA.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">-->
 
-[Protocol for adeno-associated virus-mediated optogenetic activation of olfactory output neurons in neonatal mice](https://star-protocols.cell.com/protocols/3576)
+**Protocol for adeno-associated virus-mediated optogenetic activation of olfactory output neurons in neonatal mice**
 
 **Chen, Y.-N.**, Kostka, J. K., Bitzenhofer, S. H., Hanganu-Opatz, I. L.
 
@@ -56,7 +64,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
     </a>
   </div>
 
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1">-->
 
 **Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models**
 
@@ -64,6 +72,7 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
+<br/>
 
 **Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model**
 
@@ -71,6 +80,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..
 
 *Frontiers in Systems Neuroscience, 15, 642349*
 
+<br/>
 
 **Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice**
 <!-- (https://doi.org/10.3791/59310-v)-->
@@ -90,7 +100,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..
 - *2023.08*, "**Olfaction: a Key Player in Cognitive Development/Degeneration**"
             International Forum of Extracellular Space and Translational Medicine, Bern & Beijing
 - *2021.09*, "**Time Correlation Between Olfactory Network Dysfunction and Cognitive Degeneration**"
-            Neuromatch Conference, online \| [\video\](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/)
+            Neuromatch Conference, online \| [[\video\]](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/)
   
 # 📖 Educations
 - *2019.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
