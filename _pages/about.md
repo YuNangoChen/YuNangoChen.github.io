@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/) for my doctoral project. My main aim is to investigate how the sensory entrainment of limbic systems is changing over neural development from neonatal to juvenile periods, with electrophysiological recordings. Alongside this, I’m interested in the potential important role of olfactory information processing during neonatal ages for later cognitive maturation. 
-I have published more than 10 papers on SCI journals mainly in the field of neuroscience <a href='https://scholar.google.com/citations?user=1nyXPMYAAAAJ&hl=en#d=gsc_md_hist&t=1721735260602'>google #scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?#user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published more than 10 papers on SCI journals mainly in the field of neuroscience <a href='https://scholar.google.com/citations?user=1nyXPMYAAAAJ&hl=en#d=gsc_md_hist&t=1721735260602'>(You can also use google scholar badge <a href='https://scholar.google.com/citations?#user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
