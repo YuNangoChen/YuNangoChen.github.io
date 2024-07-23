@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/) for my doctoral project. My main aim is to investigate how the sensory entrainment of limbic systems is changing over neural development from neonatal to juvenile periods, with electrophysiological recordings. Alongside this, I’m interested in the potential important role of olfactory information processing during neonatal ages for later cognitive maturation. 
-I have published more than 10 papers on SCI journals mainly in the field of neuroscience (first-authored and co-authored)<a href='https://scholar.google.com/citations?#user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published more than 10 papers on SCI journals mainly in the field of neuroscience (first-authored and co-authored)<a href='https://scholar.google.com/citations?user=1nyXPMYAAAAJ#d=gsc_md_hist&t=1721762807206&user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -41,41 +41,40 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div> -->
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-      <img src='images/CurBio-GA.jpg' alt="sym" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <div class="badge">Current Biology 2023</div>
-    <a href="https://doi.org/10.1016/j.cub.2023.08.072">
-    </a>
-  </div>
-</div>
-
-<!-- <div class='paper-box-text' markdown="1">-->
-
-[Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities](https://doi.org/10.1016/j.cub.2023.08.072)
+**Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities**
 
 **Chen, Y.-N.**, Kostka, J. K., Bitzenhofer, S. H., Hanganu-Opatz, I. L.
 
 *Current Biology, 33(20), 4353-4366*
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+      <img src='images/CurBio-GA.jpg' alt="sym" width="100%">
+  </div>
+    <div class="badge">Current Biology 2023</div>
+    </a>
+    <a href="https://doi.org/10.1016/j.cub.2023.08.072">
+  </div>
+</div>
 
-[Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models](https://doi.org/10.1186/s13024-021-00434-7)
+<!-- <div class='paper-box-text' markdown="1">-->
+
+**Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models**
 
 Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, ..., Long C., Yang, L.
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
 
-[Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model](https://doi.org/10.3389/fnsys.2021.642349)
+**Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model**
 
 Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..., Shen J., Yang, L.
 
 *Frontiers in Systems Neuroscience, 15, 642349*
 
 
-[Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice](https://doi.org/10.3791/59310-v)
+**Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice**
+<!-- (https://doi.org/10.3791/59310-v)-->
 
 **Chen, Y.-N.**, Li, M., Zheng, Y., Yang, L.
 
