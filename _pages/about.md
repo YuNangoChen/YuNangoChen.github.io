@@ -23,7 +23,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 # 🔥 News
 - *2024.08*: &nbsp;😃 I am so honored to be recognized by the **Chinese Government Award for Outstanding Self-financed Students Abroad**! 
-- *2024.07*: &nbsp;🙌 Our paper comprehensively introducing the comprehensive workflow of combining *in vivo* optogenetics and electrophysiology is now published on [STAR Protocols](https://www.sciencedirect.com/journal/star-protocols/vol/5/issue/3). 
+- *2024.07*: &nbsp;🙌 Our paper comprehensively introducing the workflow of combining *in vivo* optogenetics and electrophysiology is now published on [STAR Protocols](https://www.sciencedirect.com/journal/star-protocols/vol/5/issue/3). 
 - *2023.11*: &nbsp;🎉 Our paper “Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities” on [Current Biology](https://www.sciencedirect.com/journal/current-biology/vol/33/issue/20) gets selected as **UKE Paper of the Month (PoM)** for October 2023. 
 
 # 📝 Featured Publications 
