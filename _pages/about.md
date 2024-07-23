@@ -36,9 +36,9 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-  <img src='images/StarPro-GA.jpg' alt="sym" width="50%">  
+  <img src='images/StarPro-GA.jpg' alt="sym" width="60%">  
     </div>
-    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 10px; left: 10px">  
+    <a href="https://star-protocols.cell.com/protocols/3576" style="position: relative; top: 10px; left: 10px">  
     <div class="badge">STAR Protocols 2024</div>
     </a>
   </div>
@@ -58,7 +58,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   <div class='paper-box-image'>
   <img src='images/CurBio-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: absolute; top: 10px; left: 10px">  
+    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: relative; top: 10px; left: 10px">  
     <div class="badge">Current Biology 2023</div>
     </a>
   </div>
@@ -73,9 +73,9 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-  <img src='images/MN-GA.jpg' alt="sym" width="50%">  
+  <img src='images/MN-GA.jpg' alt="sym" width="60%">  
     </div>
-    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: absolute; top: 10px; left: 10px">  
+    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: relative; top: 10px; left: 10px">  
     <div class="badge">Molecular Neurodegeneration 2021</div>
     </a>
   </div>
@@ -103,9 +103,9 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..
 
 
 # 💻 Talks in Academic Conferences
-- *2023.08*, "**Olfaction: a Key Player in Cognitive Development/Degeneration**"
+- *2023.08*, "**Olfaction: a Key Player in Cognitive Development/Degeneration**"  
             International Forum of Extracellular Space and Translational Medicine, Bern & Beijing
-- *2021.09*, "**Time Correlation Between Olfactory Network Dysfunction and Cognitive Degeneration**"
+- *2021.09*, "**Time Correlation Between Olfactory Network Dysfunction and Cognitive Degeneration**"  
             Neuromatch Conference, online \| [[video\]](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/nmc-video.mp4)
   
 # 📖 Educations
