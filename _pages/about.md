@@ -36,6 +36,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 **Yu-Nan Chen (陈裕楠)**, Johanna K. Kostka, Sebastian H. Bitzenhofer, Ileana L. Hanganu-Opatz
 
 *STAR Protocols 5, 103164*
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1nyXPMYAAAAJ&citation_for_view=1nyXPMYAAAAJ:WbkHhVStYXYC) <strong><span #class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div> -->
@@ -51,13 +52,13 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 [Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models](https://doi.org/10.1186/s13024-021-00434-7)
 
-Ming Chen †, **Yu-Nan Chen** †, Qingwei Huo †, ..., Cheng Long & Li Yang.
+Ming Chen ^†^, **Yu-Nan Chen** ^†^, Qingwei Huo ^†^, ..., Cheng Long & Li Yang.
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
 [Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model](https://doi.org/10.3389/fnsys.2021.642349)
 
-Wenjun Yu †, Xiaoyan Wu †, **Yu-Nan Chen** †, ..., Jun Shen & Li Yang.
+Wenjun Yu ^†^, Xiaoyan Wu ^†^, **Yu-Nan Chen** ^†^, ..., Jun Shen & Li Yang.
 
 *Frontiers in Systems Neuroscience, 15, 642349*
 
