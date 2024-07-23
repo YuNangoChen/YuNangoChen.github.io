@@ -36,7 +36,6 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 <style>
 .paper-box {
   position: relative;
-  display: inline-block;
 }
 .paper-box-image img {
   width: 100%;
@@ -75,7 +74,6 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 <style>
 .paper-box {
   position: relative;
-  display: inline-block;
 }
 .paper-box-image img {
   width: 100%;
@@ -110,7 +108,6 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
 <style>
 .paper-box {
   position: relative;
-  display: inline-block;
 }
 .paper-box-image img {
   width: 100%;
