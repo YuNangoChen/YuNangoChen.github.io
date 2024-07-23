@@ -36,12 +36,11 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 <style>
 .badge {
   position: relative;
-  top: 50%;
+  top: 0;
   left: 0;
   transform: translate(0, -50%);
-  padding: 5px 10px;
-  border-radius: 5px;
-  font-size: 14px;
+  padding: 3px 9px;
+  font-size: 8px;
   z-index: 10;
 }
 </style>
@@ -69,12 +68,11 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 <style>
 .badge {
   position: relative;
-  top: 50%;
+  top: 0;
   left: 0;
   transform: translate(0, -50%);
-  padding: 5px 10px;
-  border-radius: 5px;
-  font-size: 14px;
+  padding: 3px 9px;
+  font-size: 8px;
   z-index: 10;
 }
 </style>
@@ -98,12 +96,11 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
 <style>
 .badge {
   position: relative;
-  top: 50%;
+  top: 0;
   left: 0;
   transform: translate(0, -50%);
-  padding: 5px 10px;
-  border-radius: 5px;
-  font-size: 14px;
+  padding: 3px 9px;
+  font-size: 8px;
   z-index: 10;
 }
 </style>
