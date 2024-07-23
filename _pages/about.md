@@ -26,14 +26,14 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 - *2024.07*: &nbsp;🙌 Our paper detailedly introducing the combined methods of in vivo optogenetics and electrophysiology is now published on [STAR Protocols](https://www.sciencedirect.com/journal/star-protocols/vol/5/issue/3). 
 - *2023.11*: &nbsp;🎉 Our paper “Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities” on [Current Biology](https://www.sciencedirect.com/journal/current-biology/vol/33/issue/20) gets selected as **UKE Paper of the Month (PoM)** for October 2023. 
 
-# 📝 Publications 
+# 📝 Featured Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">STAR Protocols 2024</div><img src='images/StarPro-GA.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Protocol for adeno-associated virus-mediated optogenetic activation of olfactory output neurons in neonatal mice](https://star-protocols.cell.com/protocols/3576)
 
-**Yu-Nan Chen (陈裕楠)**, Johanna K. Kostka, Sebastian H. Bitzenhofer, Ileana L. Hanganu-Opatz
+**Chen, Y.-N.**, Kostka, J. K., Bitzenhofer, S. H., Hanganu-Opatz, I. L.
 
 *STAR Protocols 5, 103164*
 
@@ -46,27 +46,27 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 [Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities](https://doi.org/10.1016/j.cub.2023.08.072)
 
-**Yu-Nan Chen (陈裕楠)**, Johanna K. Kostka, Sebastian H. Bitzenhofer, Ileana L. Hanganu-Opatz
+**Chen, Y.-N.**, Kostka, J. K., Bitzenhofer, S. H., Hanganu-Opatz, I. L.
 
 *Current Biology, 33(20), 4353-4366*
 
 [Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models](https://doi.org/10.1186/s13024-021-00434-7)
 
-Ming Chen ^†^, **Yu-Nan Chen** ^†^, Qingwei Huo ^†^, ..., Cheng Long & Li Yang.
+Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, ..., Long C., Yang, L.
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
 [Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model](https://doi.org/10.3389/fnsys.2021.642349)
 
-Wenjun Yu ^†^, Xiaoyan Wu ^†^, **Yu-Nan Chen** ^†^, ..., Jun Shen & Li Yang.
+Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..., Shen J., Yang, L.
 
 *Frontiers in Systems Neuroscience, 15, 642349*
 
 [Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice](https://doi.org/10.3791/59310-v)
 
-**Yu-Nan Chen**, Ming Li, Ying Zheng, Li Yang
+**Chen, Y.-N.**, Li, M., Zheng, Y., Yang, L.
 
-*JoVE (Journal of Visualized Experiments), (149), e59310*  [[Video]](https://www.jove.com/de/v/59310/evaluation-hemisphere-lateralization-with-bilateral-local-field)
+*JoVE (Journal of Visualized Experiments), (149), e59310* 
 # 🎖 Honors and Awards
 - *2024.08* **Chinese Government Award for Outstanding Self-financed Students Abroad**
 - *2024.03* **Federation of European Neuroscience Societies (FENS) Travel Grant for 17th Meeting of the Chinese Neuroscience Society in 2024 (CNS 2024)**
@@ -79,8 +79,10 @@ Wenjun Yu ^†^, Xiaoyan Wu ^†^, **Yu-Nan Chen** ^†^, ..., Jun Shen & Li Yan
 - *2016.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.08*, "**Olfaction: a Key Player in Cognitive Development/Degeneration**"
+            International Forum of Extracellular Space and Translational Medicine, Bern & Beijing
+- *2021.09*, "**Time Correlation Between Olfactory Network Dysfunction and Cognitive Degeneration**"  \| [\[video\]]([https://github.com/](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/))
+            Neuromatch Conference, online
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
