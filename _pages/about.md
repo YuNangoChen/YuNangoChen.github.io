@@ -28,23 +28,22 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 # 📝 Featured Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-  <img src='images/StarPro-GA.jpg' alt="sym" width="50%">  
-    </div>
-    <a href="https://star-protocols.cell.com/protocols/3576">  
-    <div class="badge">STAR Protocols 2024</div>
-    </a>
-  </div>
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/StarPro-GA.jpg' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">-->
-
 **Protocol for adeno-associated virus-mediated optogenetic activation of olfactory output neurons in neonatal mice**
 
 **Chen, Y.-N.**, Kostka, J. K., Bitzenhofer, S. H., Hanganu-Opatz, I. L.
 
 *STAR Protocols 5, 103164*
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <img src='images/StarPro-GA.jpg' alt="sym" width="50%">  
+    </div>
+    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 10px; left: 10px>  
+    <div class="badge">STAR Protocols 2024</div>
+    </a>
+  </div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/StarPro-GA.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">-->
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1nyXPMYAAAAJ&citation_for_view=1nyXPMYAAAAJ:WbkHhVStYXYC) <strong><span #class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div> -->
@@ -57,9 +56,9 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-  <img src='images/CurBio-GA.jpg' alt="sym" width="100%">  
+  <img src='images/CurBio-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1016/j.cub.2023.08.072">  
+    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: absolute; top: 10px; left: 10px>  
     <div class="badge">Current Biology 2023</div>
     </a>
   </div>
@@ -100,7 +99,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..
 - *2023.08*, "**Olfaction: a Key Player in Cognitive Development/Degeneration**"
             International Forum of Extracellular Space and Translational Medicine, Bern & Beijing
 - *2021.09*, "**Time Correlation Between Olfactory Network Dysfunction and Cognitive Degeneration**"
-            Neuromatch Conference, online \| [[\video\]](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/)
+            Neuromatch Conference, online \| [[video\]](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/nmc-video.mp4)
   
 # 📖 Educations
 - *2019.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
