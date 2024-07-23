@@ -34,7 +34,14 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 *STAR Protocols 5, 103164*
 <style>
-.badge {
+.paper-box {
+  position: relative;
+  display: inline-block;
+}
+.paper-box-image img {
+  width: 100%;
+}
+  .badge {
   position: relative;
   top: 0;
   left: 0;
@@ -66,7 +73,14 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 *Current Biology, 33(20), 4353-4366*
 
 <style>
-.badge {
+.paper-box {
+  position: relative;
+  display: inline-block;
+}
+.paper-box-image img {
+  width: 100%;
+}
+  .badge {
   position: relative;
   top: 0;
   left: 0;
@@ -94,7 +108,14 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
 *Molecular Neurodegeneration, 16(1), 1-23*
 
 <style>
-.badge {
+.paper-box {
+  position: relative;
+  display: inline-block;
+}
+.paper-box-image img {
+  width: 100%;
+}
+  .badge {
   position: relative;
   top: 0;
   left: 0;
