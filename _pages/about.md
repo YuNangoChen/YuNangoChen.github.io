@@ -33,7 +33,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 **Chen, Y.-N.**, Kostka, J. K., Bitzenhofer, S. H., Hanganu-Opatz, I. L.
 
 *STAR Protocols 5, 103164*
-<style>
+<!--<style>
 .paper-box {
   position: absolute;
 }
@@ -46,13 +46,13 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   font-size: 8px;
   z-index: 10;
 }
-</style>
+</style>-->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
   <img src='images/StarPro-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://star-protocols.cell.com/protocols/3576" style="position: relative; top: 0px; left: 0px; border-radius: 10px; padding: 50px">  
+    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; text-align: left">  
     <div class="badge">STAR Protocols 2024</div>
     </a>
   </div>
@@ -68,7 +68,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 *Current Biology, 33(20), 4353-4366*
 
-<style>
+<!--<style>
 .paper-box {
   position: absolute;
 }
@@ -81,12 +81,12 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   font-size: 10px;
   z-index: 10;
 }
-</style>
+</style>-->
 <div class='paper-box'>
   <div class='paper-box-image'>
   <img src='images/CurBio-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: relative; top: 0px; left: 0px; border-radius: 10px; padding: 50px">  
+    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; text-align: left">  
     <div class="badge">Current Biology 2023</div>
     </a>
   </div>
@@ -99,7 +99,7 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
-<style>
+<!--<style>
 .paper-box {
   position: absolute;
 }
@@ -112,12 +112,12 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   font-size: 10px;
   z-index: 10;
 }
-</style>
+</style>-->
 <div class='paper-box'>
   <div class='paper-box-image'>
   <img src='images/MN-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: relative; top: 0px; left: 0px; border-radius: 10px; padding: 50px">  
+    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; text-align: left">  
     <div class="badge">Molecular Neurodegeneration 2021</div>
     </a>
   </div>
