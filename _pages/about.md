@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/) for my doctoral project. My main aim is to investigate how the sensory entrainment of limbic systems is changing over neural development from neonatal to juvenile periods, with electrophysiological recordings. Alongside this, I’m interested in the potential important role of olfactory information processing during neonatal ages for later cognitive maturation. 
-I have published more than 10 papers on SCI journals mainly in the field of neuroscience <a href='https://scholar.google.com/citations?user=1nyXPMYAAAAJ&hl=en#d=gsc_md_hist&t=1721735260602'>(You can also use google scholar badge <a href='https://scholar.google.com/citations?#user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published more than 10 papers on SCI journals mainly in the field of neuroscience <a href='https://scholar.google.com/citations?user=1nyXPMYAAAAJ&hl=en#d=gsc_md_hist&t=1721735260602'>(first-authored and co-authored)<a href='https://scholar.google.com/citations?#user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -28,8 +28,8 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 # 📝 Featured Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STAR Protocols 2024</div><img src='images/StarPro-GA.jpg' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STAR Protocols 2024</div><img src='images/StarPro-GA.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">-->
 
 [Protocol for adeno-associated virus-mediated optogenetic activation of olfactory output neurons in neonatal mice](https://star-protocols.cell.com/protocols/3576)
 
@@ -41,7 +41,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Current Biology 2023</div><img src='images/CurBio-GA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[Current Biology 2023](https://doi.org/10.1016/j.cub.2023.08.072)</div><img src='images/CurBio-GA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities](https://doi.org/10.1016/j.cub.2023.08.072)
@@ -82,7 +82,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..
 - *2023.08*, "**Olfaction: a Key Player in Cognitive Development/Degeneration**"
             International Forum of Extracellular Space and Translational Medicine, Bern & Beijing
 - *2021.09*, "**Time Correlation Between Olfactory Network Dysfunction and Cognitive Degeneration**"
-            Neuromatch Conference, online \| [\video\]([https://github.com/](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/))
+            Neuromatch Conference, online \| [\video\](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/)
   
 # 📖 Educations
 - *2019.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
