@@ -61,11 +61,11 @@ Wenjun Yu †, Xiaoyan Wu †, **Yu-Nan Chen** †, ..., Jun Shen & Li Yang.
 
 *Frontiers in Systems Neuroscience, 15, 642349*
 
-[Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice](10.3791/59310-v)[[Video]](https://www.jove.com/de/v/59310/evaluation-hemisphere-lateralization-with-bilateral-local-field)
+[Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice](https://doi.org/10.3791/59310-v)
 
 **Yu-Nan Chen**, Ming Li, Ying Zheng, Li Yang
 
-*JoVE (Journal of Visualized Experiments), (149), e59310*
+*JoVE (Journal of Visualized Experiments), (149), e59310*  [[Video]](https://www.jove.com/de/v/59310/evaluation-hemisphere-lateralization-with-bilateral-local-field)
 # 🎖 Honors and Awards
 - *2024.08* **Chinese Government Award for Outstanding Self-financed Students Abroad**
 - *2024.03* **Federation of European Neuroscience Societies (FENS) Travel Grant for 17th Meeting of the Chinese Neuroscience Society in 2024 (CNS 2024)**
