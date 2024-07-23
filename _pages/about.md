@@ -33,6 +33,18 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 **Chen, Y.-N.**, Kostka, J. K., Bitzenhofer, S. H., Hanganu-Opatz, I. L.
 
 *STAR Protocols 5, 103164*
+<style>
+.badge {
+  position: relative;
+  top: 50%;
+  left: 0;
+  transform: translate(0, -50%);
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  z-index: 10;
+}
+</style>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -54,6 +66,18 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 *Current Biology, 33(20), 4353-4366*
 
+<style>
+.badge {
+  position: relative;
+  top: 50%;
+  left: 0;
+  transform: translate(0, -50%);
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  z-index: 10;
+}
+</style>
 <div class='paper-box'>
   <div class='paper-box-image'>
   <img src='images/CurBio-GA.jpg' alt="sym" width="70%">  
@@ -71,6 +95,18 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
+<style>
+.badge {
+  position: relative;
+  top: 50%;
+  left: 0;
+  transform: translate(0, -50%);
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  z-index: 10;
+}
+</style>
 <div class='paper-box'>
   <div class='paper-box-image'>
   <img src='images/MN-GA.jpg' alt="sym" width="70%">  
