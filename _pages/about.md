@@ -49,11 +49,11 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <img src='images/CurBio-GA.jpg' alt="sym" width="100%">
   </div>
-    <div class="badge">Current Biology 2023</div>
+  <div class="badge">Current Biology 2023</div>
     </a>
     <a href="https://doi.org/10.1016/j.cub.2023.08.072">
+    <img src='images/CurBio-GA.jpg' alt="sym" width="100%">  
   </div>
 </div>
 
