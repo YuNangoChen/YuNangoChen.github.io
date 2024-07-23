@@ -38,7 +38,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   <div class='paper-box-image'>
   <img src='images/StarPro-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://star-protocols.cell.com/protocols/3576" style="position: relative; top: 0.2px; left: 0.2px; padding: 50px">  
+    <a href="https://star-protocols.cell.com/protocols/3576" style="position: relative; top: 0px; left: 0px; border-radius: 10px; padding: 50px">  
     <div class="badge">STAR Protocols 2024</div>
     </a>
   </div>
@@ -58,7 +58,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   <div class='paper-box-image'>
   <img src='images/CurBio-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: relative; top: 0.2px; left: 0.2px; padding: 50px">  
+    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: relative; top: 0px; left: 0px; border-radius: 10px; padding: 50px">  
     <div class="badge">Current Biology 2023</div>
     </a>
   </div>
@@ -75,7 +75,7 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   <div class='paper-box-image'>
   <img src='images/MN-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: relative; top: 0.2px; left: 0.2px; padding: 50px">  
+    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: relative; top: 0px; left: 0px; border-radius: 10px; padding: 50px">  
     <div class="badge">Molecular Neurodegeneration 2021</div>
     </a>
   </div>
@@ -95,11 +95,11 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..
 
 *JoVE (Journal of Visualized Experiments), (149), e59310* 
 # 🎖 Honors and Awards
-- *2024.08* **Chinese Government Award for Outstanding Self-financed Students Abroad**
-- *2024.03* **Federation of European Neuroscience Societies (FENS) Travel Grant for 17th Meeting of the Chinese Neuroscience Society in 2024 (CNS 2024)**
-- *2023.10* **UKE Paper of the Month (PoM)**
-- *2023.08* **CDGTM-BGI Outstanding Youth Award**
-- *2018.09* **China National Scholarship** (Top 1%)
+- *2024.08*, **Chinese Government Award for Outstanding Self-financed Students Abroad**
+- *2024.03*, **Federation of European Neuroscience Societies (FENS) Travel Grant for 17th Meeting of the Chinese Neuroscience Society in 2024 (CNS 2024)**
+- *2023.10*, **UKE Paper of the Month (PoM)**
+- *2023.08*, **CDGTM-BGI Outstanding Youth Award**
+- *2018.09*, **China National Scholarship** (Top 1%)
 
 
 # 💻 Talks in Academic Conferences
