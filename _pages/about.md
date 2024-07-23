@@ -23,7 +23,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 # 🔥 News
 - *2024.08*: &nbsp;😃 I am so honored to be recognized by the **Chinese Government Award for Outstanding Self-financed Students Abroad**! 
-- *2024.07*: &nbsp;🙌 Our paper detailedly introducing the combined methods of in vivo optogenetics and electrophysiology is now published on [STAR Protocols](https://www.sciencedirect.com/journal/star-protocols/vol/5/issue/3). 
+- *2024.07*: &nbsp;🙌 Our paper comprehensively introducing the comprehensive workflow of combining *in vivo* optogenetics and electrophysiology is now published on [STAR Protocols](https://www.sciencedirect.com/journal/star-protocols/vol/5/issue/3). 
 - *2023.11*: &nbsp;🎉 Our paper “Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities” on [Current Biology](https://www.sciencedirect.com/journal/current-biology/vol/33/issue/20) gets selected as **UKE Paper of the Month (PoM)** for October 2023. 
 
 # 📝 Featured Publications 
@@ -50,17 +50,20 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 *Current Biology, 33(20), 4353-4366*
 
+
 [Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models](https://doi.org/10.1186/s13024-021-00434-7)
 
 Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, ..., Long C., Yang, L.
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
+
 [Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model](https://doi.org/10.3389/fnsys.2021.642349)
 
 Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..., Shen J., Yang, L.
 
 *Frontiers in Systems Neuroscience, 15, 642349*
+
 
 [Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice](https://doi.org/10.3791/59310-v)
 
@@ -72,17 +75,18 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..
 - *2024.03* **Federation of European Neuroscience Societies (FENS) Travel Grant for 17th Meeting of the Chinese Neuroscience Society in 2024 (CNS 2024)**
 - *2023.10* **UKE Paper of the Month (PoM)**
 - *2023.08* **CDGTM-BGI Outstanding Youth Award**
-- *2018.09* **China National Scholarship (Top 1%)**
+- *2018.09* **China National Scholarship** (Top 1%)
 
-# 📖 Educations
-- *2019.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2016.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+# 💻 Talks in Academic Conferences
 - *2023.08*, "**Olfaction: a Key Player in Cognitive Development/Degeneration**"
             International Forum of Extracellular Space and Translational Medicine, Bern & Beijing
-- *2021.09*, "**Time Correlation Between Olfactory Network Dysfunction and Cognitive Degeneration**"  \| [\[video\]]([https://github.com/](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/))
-            Neuromatch Conference, online
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09*, "**Time Correlation Between Olfactory Network Dysfunction and Cognitive Degeneration**"
+            Neuromatch Conference, online \| [\video\]([https://github.com/](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/))
+  
+# 📖 Educations
+- *2019.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- 
+# 👨‍💻 Internships
+- *2015.12 - 2016.05*, Merck Sharp & Dohme (MSD), China.
