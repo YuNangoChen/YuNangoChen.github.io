@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "陈裕楠的个人网页"
-description              : "I’m interested in the potential important role of sensory information processing"
+title                    : "Chen Yu-Nan's Homepage"
+description              : "I am interested in the potential important role of sensory information processing"
 repository               : "YuNangoChen/YuNanChen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈裕楠  
+  name             : "陈裕楠\n\
                     （Yu-Nan Chen）"
   avatar           : "images/472x472.jpg"
   bio              : "University Medical Center Hamburg-Eppendorf"
@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : "yu-nan-chen-4a5663176"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-0070-4484"
+  orcid            : # "https://orcid.org/0000-0002-0070-4484"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
