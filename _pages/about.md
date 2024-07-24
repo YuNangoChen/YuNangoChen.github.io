@@ -47,11 +47,11 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   z-index: 10;
 }
 </style>-->
-<div class='paper-box' style="position: relative; display: inline-block;">
+<div class='paper-box' style="position: relative; display: inline-block; width: 100%">
   <div class='paper-box-image'>
   <img src='images/StarPro-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 0; left: 0; padding: 3px 10px; font-size: 8px">  
+    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 0; left: 0; transform: translateY(-50%); padding: 3px 10px; font-size: 8px">  
     <div class="badge">STAR Protocols 2024</div>
     </a>
   </div>
