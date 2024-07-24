@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/) for my doctoral project. My main aim is to investigate how the sensory entrainment of limbic systems is changing over neural development from neonatal to juvenile periods, with electrophysiological recordings. Alongside this, I’m interested in the potential important role of olfactory information processing during neonatal ages for later cognitive maturation. 
+I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/) for my doctoral project. My main aim is to investigate how the sensory entrainment of limbic systems is changing over neural development from neonatal to juvenile periods, with electrophysiological recordings. Alongside this, I’m interested in the potential important role of olfactory information processing during neonatal ages for later cognitive maturation.  
 I have published more than 10 papers on SCI journals mainly in the field of neuroscience (first-authored and co-authored)<a href='https://scholar.google.com/citations?user=1nyXPMYAAAAJ#d=gsc_md_hist&t=1721762807206&user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
@@ -51,7 +51,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   <div class='paper-box-image'>
   <img src='images/StarPro-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: -5%; left: 0; padding: 3px 8px; font-size: 12px; white-space: nowrap">  
+    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 0; left: 0; padding: 3px 8px; font-size: 12px; white-space: nowrap">  
     <div class="badge">STAR Protocols 2024</div>
     </a>
   </div>
@@ -116,7 +116,7 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   <div class='paper-box-image'>
   <img src='images/MN-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: absolute; top: 15%; left: 0; padding: 3px 8px; font-size: 12px">  
+    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: absolute; top: 3%; left: 0; padding: 3px 8px; font-size: 12px">  
     <div class="badge">Molecular Neurodegeneration 2021</div>
     </a>
   </div>
