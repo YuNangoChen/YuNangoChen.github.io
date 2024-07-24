@@ -116,7 +116,7 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   <div class='paper-box-image'>
   <img src='images/MN-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: absolute; top: 15%; left: 0; padding: 3px 8px; font-size: 12px; white-space: nowrap">  
+    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: absolute; top: 15%; left: 0; padding: 3px 8px; font-size: 12px">  
     <div class="badge">Molecular Neurodegeneration 2021</div>
     </a>
   </div>
