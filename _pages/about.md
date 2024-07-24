@@ -51,7 +51,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   <div class='paper-box-image'>
   <img src='images/StarPro-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 0; left: 0; transform: translateY(-50%); padding: 3px 18px; font-size: 8px; white-space: nowrap">  
+    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 50; left: 0; transform: translateY(-50%); padding: 3px 10px; font-size: 12px; white-space: nowrap">  
     <div class="badge">STAR Protocols 2024</div>
     </a>
   </div>
@@ -85,7 +85,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   <div class='paper-box-image'>
   <img src='images/CurBio-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: absolute; top: 0; left: 0; transform: translateY(-50%); padding: 3px 18px; font-size: 8px; white-space: nowrap">
+    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: absolute; top: 50; left: 0; transform: translateY(-50%); padding: 3px 10px; font-size: 12px; white-space: nowrap">
     <div class="badge">Current Biology 2023</div>
     </a>
   </div>
@@ -116,7 +116,7 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   <div class='paper-box-image'>
   <img src='images/MN-GA.jpg' alt="sym" width="70%">  
     </div>
-    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: absolute; top: 0; left: 0; transform: translateY(-5%); padding: 3px 18px; font-size: 8px; white-space: nowrap">  
+    <a href="https://doi.org/10.1186/s13024-021-00434-7" style="position: absolute; top: 50; left: 0; transform: translateY(-5%); padding: 3px 18px; font-size: 12px; white-space: nowrap">  
     <div class="badge">Molecular Neurodegeneration 2021</div>
     </a>
   </div>
