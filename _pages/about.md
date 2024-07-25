@@ -85,7 +85,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   <div class='paper-box-image'>
   <img src='images/CurBio-GA.jpg' alt="sym" width="75%">  
     </div>
-    <a href="https://doi.org/10.1016/j.cub.2023.08.072" style="position: absolute; top: 5%; left: 0; padding: 3px 8px; font-size: 12px; white-space: nowrap">
+    <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(23)01152-1" style="position: absolute; top: 5%; left: 0; padding: 3px 8px; font-size: 12px; white-space: nowrap">
     <div class="badge">Current Biology 2023</div>
     </a>
   </div>
@@ -130,11 +130,12 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..
 <br/>
 
 **Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice**
-<!-- (https://doi.org/10.3791/59310-v)-->
 
 **Chen, Y.-N.**, Li, M., Zheng, Y., Yang, L.
 
 *JoVE (Journal of Visualized Experiments), (149), e59310* 
+<!-- (https://doi.org/10.3791/59310-v)-->
+<sup>（†：co-first author）</sup>
 # 🎖 Honors and Awards
 - *2024.08*, **Chinese Government Award for Outstanding Self-financed Students Abroad**
 - *2024.03*, **Federation of European Neuroscience Societies (FENS) Travel Grant for 17th Meeting of the Chinese Neuroscience Society in 2024 (CNS 2024)**
