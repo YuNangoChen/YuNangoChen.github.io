@@ -21,9 +21,9 @@ I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/) for my d
 I have published more than 10 papers on SCI journals mainly in the field of neuroscience (first-authored and co-authored)<a href='https://scholar.google.com/citations?user=1nyXPMYAAAAJ#d=gsc_md_hist&t=1721762807206&user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
-# 🔥 News
+# 🙌 News
 - *2024.08*: &nbsp;😃 I am so honored to be recognized by the **Chinese Government Award for Outstanding Self-financed Students Abroad**! 
-- *2024.07*: &nbsp;🙌 Our paper comprehensively introducing the workflow of combining *in vivo* optogenetics and electrophysiology is now published on [STAR Protocols](https://www.sciencedirect.com/journal/star-protocols/vol/5/issue/3). 
+- *2024.07*: &nbsp;🔥 Our paper comprehensively introducing the workflow of combining *in vivo* optogenetics and electrophysiology is now published on [STAR Protocols](https://www.sciencedirect.com/journal/star-protocols/vol/5/issue/3). 
 - *2023.11*: &nbsp;🎉 Our paper “Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities” on [Current Biology](https://www.sciencedirect.com/journal/current-biology/vol/33/issue/20) gets selected as **UKE Paper of the Month (PoM)** for October 2023. 
 
 # 📝 Featured Publications 
