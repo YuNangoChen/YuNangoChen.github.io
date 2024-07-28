@@ -28,7 +28,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 # 📝 Featured Publications 
 
-####**Protocol for adeno-associated virus-mediated optogenetic activation of olfactory output neurons in neonatal mice**
+#### **Protocol for adeno-associated virus-mediated optogenetic activation of olfactory output neurons in neonatal mice**
 
 **Chen, Y.-N.**, Kostka, J. K., Bitzenhofer, S. H., Hanganu-Opatz, I. L.
 
@@ -61,7 +61,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div> -->
 
-####**Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities**
+#### **Olfactory bulb activity shapes the development of entorhinal-hippocampal coupling and associated cognitive abilities**
 
 **Chen, Y.-N.**, Kostka, J. K., Bitzenhofer, S. H., Hanganu-Opatz, I. L.
 
@@ -92,7 +92,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 <!-- <div class='paper-box-text' markdown="1">-->
 
-####**Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models**
+#### **Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models**
 
 Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, ..., Long C., Yang, L.
 
@@ -121,7 +121,7 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
     </a>
   </div>
   
-####**Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model**
+#### **Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model**
 
 Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..., Shen J., Yang, L.
 
@@ -129,7 +129,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ..
 
 <br/>
 
-####**Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice**
+#### **Evaluation of hemisphere lateralization with bilateral local field potential recording in secondary motor cortex of mice**
 
 **Chen, Y.-N.**, Li, M., Zheng, Y., Yang, L.
 
