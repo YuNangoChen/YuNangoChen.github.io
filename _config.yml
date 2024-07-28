@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈裕楠\n\
+  name             : "陈裕楠 |  
                     （Yu-Nan Chen）"
-  avatar           : "http://www.opatzlab.com/wp-content/uploads/2021/09/IMG_20191111_150946-scaled-397x397.jpg" #"images/472x472.jpg"
+  avatar           : "images/472x472.jpg"
   bio              : "University Medical Center Hamburg-Eppendorf"
   location         : "Germany"
   employer         :
