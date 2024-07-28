@@ -97,10 +97,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, 
 <details>
   <summary>...</summary>
-  <p>This text is hidden until you click "..."</p>
-  <ul>
-    <li>Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X., </li>
-  </ul>
+  <p>Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X., </p>
 </details>
 Long C., Yang, L.
 
