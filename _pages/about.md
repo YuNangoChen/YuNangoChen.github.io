@@ -94,12 +94,12 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 #### **Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models**
 
-Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, 
+Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, ...
 <details>
   <summary>...</summary>
   Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X., 
 </details>
-Long C., Yang, L.
+...Long C., Yang, L.
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
@@ -128,12 +128,12 @@ Long C., Yang, L.
   
 #### **Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model**
 
-Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, 
+Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, ...
 <details>
   <summary>...</summary>
   Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C., 
 </details>
-Shen J., Yang, L.
+...Shen J., Yang, L.
 
 *Frontiers in Systems Neuroscience, 15, 642349*
 
