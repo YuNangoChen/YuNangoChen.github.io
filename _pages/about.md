@@ -95,7 +95,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 #### **Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models**
 
 Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, 
-<details style="display:inline;"><summary style="display:inline;">...</summary>Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X., </details>Long C., Yang, L.
+<details style="display:inline;"><summary style="display:inline;">...</summary><span style="display:inline;">Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X., </span></details>Long C., Yang, L.
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
@@ -125,7 +125,7 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
 #### **Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model**
 
 Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, 
-<details style="display:inline;"><summary style="display:inline;">...</summary>Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C., </details>Shen J., Yang, L.
+<details style="display:inline;"><summary style="display:inline;">...</summary><span style="display:inline;">Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C., </span></details>Shen J., Yang, L.
 
 *Frontiers in Systems Neuroscience, 15, 642349*
 
