@@ -123,7 +123,7 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   
 #### **Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model**
 
-Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <details style="display:inline;"><summary style="display:inline;">...</summary><span style="display:inline;">Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C., </span></details>Shen J., Yang, L.
+Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <details style="display:inline;cursor:pointer;"><summary style="display:inline;margin:0; padding:0;">...</summary><span style="display:inline;">Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C., </span></details>Shen J., Yang, L.
 
 *Frontiers in Systems Neuroscience, 15, 642349*
 
