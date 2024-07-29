@@ -94,10 +94,10 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 #### **Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models**
 
-Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, <span style="position:relative; display:inline-block;">
+Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, <span class="tooltip-container" style="position:relative; display:inline-block;">
   <span style="cursor:pointer; border-bottom:1px dotted; display:inline-block;">...</span>
-  <span style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
-  Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X.
+  <span class="tooltip-text" style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
+    Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X.
   </span>
 </span>Long C., Yang, L.
 
@@ -128,9 +128,9 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   
 #### **Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model**
 
-Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <span style="position:relative; display:inline-block;">
+Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <span class="tooltip-container" style="position:relative; display:inline-block;">
   <span style="cursor:pointer; border-bottom:1px dotted; display:inline-block;">...</span>
-  <span style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
+  <span class="tooltip-text" style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
   Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C.,</span>
 </span>Shen J., Yang, L.
 
