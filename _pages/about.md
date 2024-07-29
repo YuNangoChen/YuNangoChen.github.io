@@ -95,55 +95,22 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 #### **Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models**
 
 Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, <span style="position:relative; display:inline-block;">
-  
-  
-<span id="trigger" style="cursor:pointer; border-bottom:1px dotted; display:inline;">...</span>
-  
-  
-<span id="hidden-text" style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1; bottom:100%; left:0;">
+  <span style="cursor:pointer; border-bottom:1px dotted; display:inline;">...</span>
+  <span style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1; bottom:100%; left:0;">
     Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X.
-  
-    Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang,
-
-    Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, 
-
-    Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Ta
-
-    Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang
-
-    Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, 
-
-    Wang, L., Tan, S., Misrani, A., Jiang, J., 
-
-    Wang, L., Tan, S., Misrani, A., Jia
-
-    Wang, L., Tan, S., Misrani,
-
-    Wang, L., Tan, S., 
-
-    Wang, L., T
-
-    Wan
-</span>
+  </span>
 </span>, Long C., Yang, L.
 <script>
-  document.getElementById('trigger').addEventListener('click', function() {
-    var hiddenText = document.getElementById('hidden-t
-
-  document.getElementById('trigger').addEventListener('click', function() {
-    var hiddenText = document.getElementById('hidden-text');
-    if (hiddenText.style.visibility === 'hidden') {
-      hiddenText.style.visibility = 'visibl
-
-  document.getElementById('trigger').addEventListener('click', function() {
-    var hiddenText = document.getElementById('hidden-text');
-    if (hiddenText.style.visibility === 'hidden') {
-      hiddenText.style.visibility = 'visible';
-    } else {
-      hiddenText.style.visibility = 'hidden';
-    }
+  document.querySelectorAll('span[style*="relative"]').forEach(function(span) {
+    span.addEventListener('mouseenter', function() {
+      this.querySelector('span[style*="absolute"]').style.visibility = 'visible';
+    });
+    span.addEventListener('mouseleave', function() {
+      this.querySelector('span[style*="absolute"]').style.visibility = 'hidden';
+    });
   });
 </script>
+
 *Molecular Neurodegeneration, 16(1), 1-23*
 
 <!--<style>
@@ -186,6 +153,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
     });
   });
 </script>
+
 *Frontiers in Systems Neuroscience, 15, 642349*
 
 <br/>
