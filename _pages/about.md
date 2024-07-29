@@ -127,7 +127,11 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   </div>
   
 #### **Pelvic pain alters functional connectivity between anterior cingulate cortex and hippocampus in both humans and a rat model**
-
+<style>
+  .tooltip-container:hover .tooltip-text {
+    visibility: visible;
+  }
+</style>
 Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <span class="tooltip-container" style="position:relative; display:inline-block;">
   <span style="cursor:pointer; border-bottom:1px dotted; display:inline-block;">...</span>
   <span class="tooltip-text" style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
