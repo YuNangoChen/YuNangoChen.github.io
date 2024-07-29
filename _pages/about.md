@@ -99,7 +99,12 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   <span style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
   <span>Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X.</span>
 </span> Long C., Yang, L.
-
+<style>
+  span:hover span {
+    visibility:visible;
+    display:inline-block;
+  }
+</style>
 *Molecular Neurodegeneration, 16(1), 1-23*
 
 <!--<style>
@@ -132,7 +137,12 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
   <span style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
   <span>Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C.,</span>
 </span> Shen J., Yang, L.
-
+<style>
+  span:hover span {
+    visibility:visible;
+    display:inline-block;
+  }
+</style>
 *Frontiers in Systems Neuroscience, 15, 642349*
 
 <br/>
