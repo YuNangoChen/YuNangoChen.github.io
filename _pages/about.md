@@ -94,12 +94,12 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 #### **Enhancing GABAergic signaling ameliorates aberrant gamma oscillations of olfactory bulb in AD mouse models**
 
-Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, <span class="tooltip-container" style="position:relative; display:inline-block;">
-  <span style="cursor:pointer; border-bottom:1px dotted; display:inline-block;">...</span>
-  <span class="tooltip-text" style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
+Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, <span style="position:relative; display:inline-block;">
+  <span style="cursor:pointer; border-bottom:1px dotted; display:inline-block;" onclick="this.nextElementSibling.style.display='inline'">...</span>
+  <span style="display:none; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
     Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X.
   </span>
-</span>Long C., Yang, L.
+</span> Long C., Yang, L.
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
@@ -132,11 +132,11 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
     visibility: visible;
   }
 </style>
-Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <span class="tooltip-container" style="position:relative; display:inline-block;">
-  <span style="cursor:pointer; border-bottom:1px dotted; display:inline-block;">...</span>
-  <span class="tooltip-text" style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
+Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <span style="position:relative; display:inline-block;">
+  <span style="cursor:pointer; border-bottom:1px dotted; display:inline-block;" onclick="this.nextElementSibling.style.display='inline'">...</span>
+  <span style="display:none; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1;">
   Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C.,</span>
-</span>Shen J., Yang, L.
+</span> Shen J., Yang, L.
 
 *Frontiers in Systems Neuroscience, 15, 642349*
 
