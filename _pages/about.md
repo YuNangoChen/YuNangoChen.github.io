@@ -96,7 +96,8 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>, <details style="display:inline;">
   <summary style="display:inline; cursor:pointer; border-bottom:1px dotted;">...</summary>
-    Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X.</details> Long C., Yang, L.
+  <span>Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X.</span>
+</details> Long C., Yang, L.
 
 *Molecular Neurodegeneration, 16(1), 1-23*
 
