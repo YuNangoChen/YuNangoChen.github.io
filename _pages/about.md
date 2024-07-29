@@ -98,7 +98,7 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   <span style="cursor:pointer; border-bottom:1px dotted; display:inline;">...</span>
   <span style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1; bottom:100%; left:0;">
   Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X.
-</span> Long C., Yang, L.
+</span>, Long C., Yang, L.
 <script>
   document.querySelectorAll('span[style*="relative"]').forEach(function(span) {
     span.addEventListener('mouseenter', function() {
@@ -140,7 +140,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
   <span style="cursor:pointer; border-bottom:1px dotted; display:inline;">...</span>
   <span style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1; bottom:100%; left:0;">
   Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C.,
-</span> Shen J., Yang, L.
+</span>, Shen J., Yang, L.
 <script>
   document.querySelectorAll('span[style*="relative"]').forEach(function(span) {
     span.addEventListener('mouseenter', function() {
