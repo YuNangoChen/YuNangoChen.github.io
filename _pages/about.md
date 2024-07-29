@@ -99,11 +99,16 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   <span style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1; bottom:100%; left:0;">
   Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X.
 </span> Long C., Yang, L.
-<style>
-  span:hover span {
-    visibility:visible;
-  }
-</style>
+<script>
+  document.querySelectorAll('span[style*="relative"]').forEach(function(span) {
+    span.addEventListener('mouseenter', function() {
+      this.querySelector('span[style*="absolute"]').style.visibility = 'visible';
+    });
+    span.addEventListener('mouseleave', function() {
+      this.querySelector('span[style*="absolute"]').style.visibility = 'hidden';
+    });
+  });
+</script>
 *Molecular Neurodegeneration, 16(1), 1-23*
 
 <!--<style>
@@ -136,12 +141,16 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
   <span style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1; bottom:100%; left:0;">
   Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C.,
 </span> Shen J., Yang, L.
-<style>
-  span:hover span {
-    visibility:visible;
-    display:inline-block;
-  }
-</style>
+<script>
+  document.querySelectorAll('span[style*="relative"]').forEach(function(span) {
+    span.addEventListener('mouseenter', function() {
+      this.querySelector('span[style*="absolute"]').style.visibility = 'visible';
+    });
+    span.addEventListener('mouseleave', function() {
+      this.querySelector('span[style*="absolute"]').style.visibility = 'hidden';
+    });
+  });
+</script>
 *Frontiers in Systems Neuroscience, 15, 642349*
 
 <br/>
