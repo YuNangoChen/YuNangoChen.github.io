@@ -100,13 +100,21 @@ Chen, M. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, Huo, Q. <sup>†</sup>,
   Wang, L., Tan, S., Misrani, A., Jiang, J., Chen, J., Chen, S., Zhang, J., Tabassum, S., Wang, J., Chen, X.
 </span>, Long C., Yang, L.
 <script>
-  document.querySelectorAll('span[style*="relative"]').forEach(function(span) {
-    span.addEventListener('mouseenter', function() {
-      this.querySelector('span[style*="absolute"]').style.visibility = 'visible';
-    });
-    span.addEventListener('mouseleave', function() {
-      this.querySelector('span[style*="absolute"]').style.visibility = 'hidden';
-    });
+  document.getElementById('trigger').addEventListener('click', function() {
+    var hiddenText = document.getElementById('hidden-t
+
+  document.getElementById('trigger').addEventListener('click', function() {
+    var hiddenText = document.getElementById('hidden-text');
+    if (hiddenText.style.visibility === 'hidden') {
+      hiddenText.style.visibility = 'visibl
+
+  document.getElementById('trigger').addEventListener('click', function() {
+    var hiddenText = document.getElementById('hidden-text');
+    if (hiddenText.style.visibility === 'hidden') {
+      hiddenText.style.visibility = 'visible';
+    } else {
+      hiddenText.style.visibility = 'hidden';
+    }
   });
 </script>
 *Molecular Neurodegeneration, 16(1), 1-23*
