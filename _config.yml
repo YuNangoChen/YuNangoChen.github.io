@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chen Yu-Nan's Homepage"
-description              : "I am interested in the potential important role of sensory information processing"
+description              : "I am interested in how the brain integrates sensory information"
 repository               : "YuNangoChen/YuNanChen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈裕楠 \n  
+  name             : "陈裕楠 \n\n  
                     （Yu-Nan Chen）"
   avatar           : "images/472x472.jpg"
   bio              : "University Medical Center Hamburg-Eppendorf"
