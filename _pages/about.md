@@ -184,8 +184,9 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
   
 # 📖 Educations
 - *2019.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-<a href="https://info.flagcounter.com/mclV"><img src="https://s11.flagcounter.com/count2/mclV/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+- *2016.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
  
 # 👨‍💻 Internships
 - *2015.12 - 2016.05*, Merck Sharp & Dohme (MSD), China.
+
+<a href="https://info.flagcounter.com/mclV"><img src="https://s11.flagcounter.com/count2/mclV/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
