@@ -189,9 +189,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
 # 👨‍💻 Internships
 - *2015.12 - 2016.05*, Merck Sharp & Dohme (MSD), China.
 
-## Flag Counter (hidden)
-
-<!DOCTYPE html>
+## 
 <html>
 <head>
   <style>
