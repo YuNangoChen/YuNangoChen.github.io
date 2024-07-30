@@ -190,23 +190,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
 - *2015.12 - 2016.05*, Merck Sharp & Dohme (MSD), China.
 
 ##   
-<html>
-  <body>  
- <a href="https://info.flagcounter.com/ETwa"><img src="https://s11.flagcounter.com/map/ETwa/size_s/txt_000000/border_08CCAB/pageviews_1/viewers_+Views/flags_0/" 
+<div style="display:none;">
+  <a href="https://info.flagcounter.com/ETwa"><img src="https://s11.flagcounter.com/map/ETwa/size_s/txt_000000/border_08CCAB/pageviews_1/viewers_+Views/flags_0/" 
  alt="Flag Counter" border="0"></a>
-  <img src="https://s01.flagcounter.com/countxl/Wxyz" id="flagCounter" style="display: none;">
-
-  <script>
-    // Function to get query parameter by name
-    function getQueryParam(param) {
-      let urlParams = new URLSearchParams(window.location.search);
-      return urlParams.get(param);
-    }
-
-    // Check for the 'showcounter' query parameter
-    if (getQueryParam('showcounter') === 'true') {
-      document.getElementById('flagCounter').style.display = 'block';
-    }
-  </script>
-</body>
-</html>
+</div>  
