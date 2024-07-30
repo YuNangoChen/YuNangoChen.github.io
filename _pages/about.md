@@ -189,9 +189,4 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
 # 👨‍💻 Internships
 - *2015.12 - 2016.05*, Merck Sharp & Dohme (MSD), China.
 
-<body>
 <a href="https://info.flagcounter.com/ETwa"><img src="https://s11.flagcounter.com/map/ETwa/size_s/txt_000000/border_08CCAB/pageviews_1/viewers_+Views/flags_0/" alt="Flag Counter" border="0"></a>
-    <div style="display:none;">
-        <script type="text/javascript" src="https://s11.flagcounter.com/count2/yourflagcountercode.js"></script>
-    </div>
-</body>
