@@ -30,8 +30,9 @@ layout: compress
         </div>
       </article>
     </div>
-
-         <!-- Dark Mode Switch -->
+    
+    {% include scripts.html %}
+             <!-- Dark Mode Switch -->
     <div class="theme-switch-wrapper">
         <span id="toggle-icon">
             <span class="toggle-text">Light Mode</span>
@@ -44,10 +45,8 @@ layout: compress
     </div>
     
     <footer>
-    <p>&copy; {{ site.time | date: '%Y-%M-%D' }} {{ site.title }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%M' }} {{ site.title }}. All rights reserved.</p>
     </footer>
-    
-    {% include scripts.html %}
     <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
   </body>
 </html>
