@@ -32,7 +32,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
 
 **Chen, Y.-N.**, Kostka, J. K., Bitzenhofer, S. H., Hanganu-Opatz, I. L.
 
-*STAR Protocols 5, 103164*
+*STAR Protocols, 5, 103164*
 <!--<style>
 .paper-box {
   position: absolute;
@@ -170,7 +170,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
 <sup>（†：co-first author）</sup>
 # 🎖 Honors and Awards
 - *2024.08*, **Chinese Government Award for Outstanding Self-financed Students Abroad**
-- *2024.03*, **Federation of European Neuroscience Societies (FENS) Travel Grant for 17th Meeting of the Chinese Neuroscience Society in 2024 (CNS 2024)**
+- *2024.03*, **Federation of European Neuroscience Societies (FENS) Travel Grant for 17th Meeting of the Chinese Neuroscience Society (CNS 2024)**
 - *2023.10*, **UKE Paper of the Month (PoM)**
 - *2023.08*, **CDGTM-BGI Outstanding Youth Award**
 - *2018.09*, **China National Scholarship** (Top 1%)
