@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/) for my doctoral project. My main aim is to investigate how the sensory entrainment of limbic systems is changing over neural development from neonatal to juvenile periods, with electrophysiological recordings. Alongside this, I’m interested in the potential important role of olfactory information processing during neonatal ages for later cognitive maturation.  
+I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/) for my doctoral project. My main aim is to investigate how the sensory entrainment of brain systems is changing over neural development from neonatal to juvenile periods, with electrophysiological recordings. Alongside this, I’m interested in the potential important role of sensory processing during neonatal ages for later cognitive maturation.  
 I have published more than 10 papers on SCI journals mainly in the field of neuroscience (first-authored and co-authored)<a href='https://scholar.google.com/citations?user=1nyXPMYAAAAJ#d=gsc_md_hist&t=1721762807206&user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
@@ -142,6 +142,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
   <span style="cursor:pointer; border-bottom:1px dotted; display:inline;">...</span>
   <span style="visibility:hidden; position:absolute; white-space:nowrap; background-color:#f9f9f9; border:1px solid #ccc; padding:5px; z-index:1; bottom:100%; left:0;">
   Liang, Z., Jiang, J., Misrani, A., Su, Y., Peng, Y., Chen, J., Tang, B., Sun, M., Long C.
+  </span>
 </span>, Shen J., Yang, L.
 <script>
   document.querySelectorAll('span[style*="relative"]').forEach(function(span) {
@@ -170,7 +171,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
 <sup>（†：co-first author）</sup>
 # 🎖 Honors and Awards
 - *2024.08*, **Chinese Government Award for Outstanding Self-financed Students Abroad**
-- *2024.03*, **Federation of European Neuroscience Societies (FENS) Travel Grant for 17th Meeting of the Chinese Neuroscience Society (CNS 2024)**
+- *2024.03*, **Federation of European Neuroscience Societies (FENS) Travel Grant for 17<sup>th</sup> Meeting of the Chinese Neuroscience Society (CNS 2024)**
 - *2023.10*, **UKE Paper of the Month (PoM)**
 - *2023.08*, **CDGTM-BGI Outstanding Youth Award**
 - *2018.09*, **China National Scholarship** (Top 1%)
