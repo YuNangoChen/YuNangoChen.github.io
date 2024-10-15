@@ -195,4 +195,4 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
  alt="Flag Counter" border="0"></a></div>
 
 <div style="display:none;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=e-FdAgRQciAjH0s1Lii6xUDc1PWwRgD-ULJ5nxW1MvI"></script></div>
+  <a href="https://clustrmaps.com/site/1c1qf" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=e-FdAgRQciAjH0s1Lii6xUDc1PWwRgD-ULJ5nxW1MvI&cl=ffffff"></a></div>
