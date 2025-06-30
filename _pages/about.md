@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/) for my doctoral project. My main aim is to investigate how the sensory entrainment of brain systems is changing over neural development from neonatal to juvenile periods, with electrophysiological recordings. Alongside this, I’m interested in the potential important role of sensory processing during neonatal ages for later cognitive maturation.  
+I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/). My primary aim is to investigate how the sensory entrainment of brain systems changes over neural development. Alongside this, I’m interested in  understanding the potentially important role of sensory processing during neonatal age for later cognitive maturation.  
 I have published more than 10 papers on SCI journals mainly in the field of neuroscience (first-authored and co-authored)<a href='https://scholar.google.com/citations?user=1nyXPMYAAAAJ#d=gsc_md_hist&t=1721762807206&user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
@@ -178,6 +178,8 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
 
 
 # 💻 Talks in Academic Conferences
+- *2024.09*, "**Not Only with Smaller Size: Dynamic Landscape of Developing Brain**"  
+            The 17<sup>th</sup> Meeting of the Chinese Neuroscience Society, Suzhou
 - *2023.08*, "**Olfaction: a Key Player in Cognitive Development/Degeneration**"  
             International Forum of Extracellular Space and Translational Medicine, Bern & Beijing
 - *2021.09*, "**Time Correlation Between Olfactory Network Dysfunction and Cognitive Degeneration**"  
