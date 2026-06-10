@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/). My primary aim is to investigate how the sensory entrainment of brain systems changes over neural development. Alongside this, I’m interested in  understanding the potentially important role of sensory processing during neonatal age for later cognitive maturation.  
+I am currently working in [Hanganu-Opatz Lab](http://www.opatzlab.com/). My primary aim is to investigate how the sensory entrainment of brain systems develops in the lifespan. Alongside this, I’m interested in  understanding the potentially important role of neonatal sensory processing for subsequent cognitive maturation.
 I have published more than 10 papers on SCI journals mainly in the field of neuroscience (first-authored and co-authored)<a href='https://scholar.google.com/citations?user=1nyXPMYAAAAJ#d=gsc_md_hist&t=1721762807206&user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode #}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
