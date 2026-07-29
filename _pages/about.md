@@ -170,7 +170,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
 
 <sup>（†：co-first author）</sup>
 # 🎖 Honors and Awards
-- *2026.07*, **Federation of European Neuroscience Societies (FENS) Forum 2026 Training Ambassador**
+- *2026.07*, **Federation of European Neuroscience Societies (FENS) Forum 2026 Training and Education Ambassador**
 - *2024.08*, **Chinese Government Award for Outstanding Self-financed Students Abroad**
 - *2024.03*, **FENS Travel Grant for 17<sup>th</sup> Meeting of the Chinese Neuroscience Society (CNS 2024)**
 - *2023.10*, **UKE Paper of the Month (PoM)**
