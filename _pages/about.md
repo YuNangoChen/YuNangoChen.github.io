@@ -51,7 +51,7 @@ I have published more than 10 papers on SCI journals mainly in the field of neur
   <div class='paper-box-image'>
   <img src='images/StarPro-GA.jpg' alt="sym" width="75%">  
     </div>
-    <a href="https://star-protocols.cell.com/protocols/3576" style="position: absolute; top: 3%; left: 0; padding: 3px 8px; font-size: 12px; white-space: nowrap">  
+    <a href="https://www.sciencedirect.com/science/article/pii/S2666166724003290" style="position: absolute; top: 3%; left: 0; padding: 3px 8px; font-size: 12px; white-space: nowrap">  
     <div class="badge">STAR Protocols 2024</div>
     </a>
   </div>
