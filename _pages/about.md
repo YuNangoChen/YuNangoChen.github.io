@@ -185,7 +185,7 @@ Yu, W. <sup>†</sup>, Wu, X. <sup>†</sup>, **Chen, Y.-N.** <sup>†</sup>, <s
 - *2023.08*, "**Olfaction: a Key Player in Cognitive Development/Degeneration**"  
             International Forum of Extracellular Space and Translational Medicine, Bern & Beijing
 - *2021.09*, "**Time Correlation Between Olfactory Network Dysfunction and Cognitive Degeneration**"  
-            Neuromatch Conference, online \| [[video]](https://www.world-wide.org/neuromatch-5.0/early-olfactory-processing-necessary-0c11c130/nmc-video.mp4)
+            Neuromatch Conference, online \| [[video]](https://world-wide.org/api/media/legacy-eposter?key=neuromatch-5.0%2Fearly-olfactory-processing-necessary-0c11c130%2Fnmc-video.mp4)
   
 # 📖 Educations
 - *2019.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
