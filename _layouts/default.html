@@ -1,9 +1,18 @@
 ---
 layout: compress
 ---
+
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
+    <script>
+      (function () {
+        var t = localStorage.getItem('theme') ||
+          (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', t);
+      })();
+    </script>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% include head.html %}
     {% include head/custom.html %}
@@ -17,6 +26,7 @@ layout: compress
 
     <div id="main" role="main">
       {% include sidebar.html %}
+
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
@@ -29,9 +39,5 @@ layout: compress
 
     {% include scripts.html %}
     <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
-
-    <footer>
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
-    </footer>
   </body>
 </html>
