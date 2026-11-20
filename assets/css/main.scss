@@ -107,3 +107,70 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+:root {
+  --bg: #ffffff;
+  --text: #494e52;
+  --link: #52adc8;
+  --border: #f2f3f3;
+  --surface: #f2f3f3;
+}
+
+[data-theme="dark"] {
+  --bg: #121212;
+  --text: #e0e0e0;
+  --link: #7fdbff;
+  --border: #333;
+  --surface: #1e1e1e;
+}
+
+body,
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav .visible-links a,
+.page__footer,
+.page__content,
+.sidebar,
+.author__content {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color .3s, color .3s;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title, .archive__item-title,
+.author__name, .author__bio,
+.greedy-nav .visible-links a,
+.masthead__menu-item a {
+  color: var(--text);
+}
+
+a, a:visited { color: var(--link); }
+
+.masthead, .page__footer, hr, table, th, td {
+  border-color: var(--border);
+}
+
+code, pre, blockquote, th, .notice, .sidebar .author__urls {
+  background-color: var(--surface);
+  color: var(--text);
+}
+
+.author__urls { background: var(--surface); }
+.greedy-nav { border-bottom: 1px solid var(--border); }
+
+/* toggle button */
+#theme-toggle {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 9999;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  cursor: pointer;
+  font-size: 20px;
+}
