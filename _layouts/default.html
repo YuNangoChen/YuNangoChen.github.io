@@ -1,26 +1,22 @@
 ---
 layout: compress
 ---
-
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
-  <button id="theme-toggle" aria-label="Toggle Dark/Light Mode">🌓</button>
-  
   <body>
+    <button id="theme-toggle" aria-label="Toggle Dark/Light Mode">🌓</button>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
     <div id="main" role="main">
       {% include sidebar.html %}
-    
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
@@ -30,26 +26,12 @@ layout: compress
         </div>
       </article>
     </div>
-    
+
     {% include scripts.html %}
-             <!-- Dark Mode Switch -->
-    <div class="theme-switch-wrapper">
-        <span id="toggle-icon">
-            <span class="toggle-text">Light Mode</span>
-            <i class="fa-solid fa-sun"></i>
-        </span>
-        <label class="theme-switch">
-            <input type="checkbox">
-            <div class="slider round"> </div>
-        </label>
-    </div>
-    
-    <script src="https://kit.fontawesome.com/8d9600f1af.js" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
-    <script src="script.js"></script>
-  </body>
-    
+
     <footer>
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
     </footer>
+  </body>
 </html>
